@@ -1,0 +1,4 @@
+The data set was used in the 1983 American Statistical Association Exposition. The data concerns city-cycle fuel consumption in miles per gallon, to be predicted in terms of 2 multi-valued discrete and 4 continuous variables.
+
+Use K Means or Hierarchical clustering to find out the optimal number of clusters in the data. Identify and separate the clusters
+Use linear regression model on different clusters separately and print the coefficients of the models individually
